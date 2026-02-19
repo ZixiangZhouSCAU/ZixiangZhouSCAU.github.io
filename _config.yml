@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "周子翔"
-description              : "多模态地理空间数据融合与协同建模"
+description              : "保持冷静，独立思考"
 repository               : "ZixiangZhouSCAU/ZixiangZhouSCAU.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "周子翔"
-  avatar           : "images/a7badffaeebbea0856c0a42fe6a29a1f.png"
-  bio              : "华南农业大学"
+  avatar           : "images/avatar1.png"
+  bio              :
   location         : "广东 广州"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 

@@ -31,7 +31,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: "Times New Roman", "SimSun", "宋体", serif;
   }
 
   h3, h4 {
@@ -39,12 +39,15 @@
   }
 
   p, li {
-    font-family: $serif;
+    font-family: "Times New Roman", "SimSun", "宋体", serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }
 
   img {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
     width: 100%;
   }
 }
@@ -73,30 +76,36 @@
     display: block;
   }
   display: flex;
-  justify-content: flex-start;
-  align-content: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
   align-items: center;
 }
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 75px;
+  display: block;
+  width: 100%;
+  text-align: center;
   // set width only, for non-square avatars
   // height: 36px;
 
   @include breakpoint($large) {
-    display: block;
-    width: auto;
+    width: 100%;
     height: auto;
+    align-self: center;
   }
 
   img {
-    max-width: 175px;
-    min-width: 75px;
-    border-radius: 50%;
+    display: block;
+    width: 60px;
+    height: auto;
+    margin: 0 auto;
+    max-width: none;
+    min-width: 0;
+    border-radius: 0;
 
     @include breakpoint($large) {
+      width: 120px;
       padding: 5px;
       border: 1px solid $border-color;
     }
@@ -104,12 +113,13 @@
 }
 
 .author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 10px;
+  display: block;
+  padding-left: 0;
+  width: 100%;
   min-width: 120px;
   // padding-right: 25px;
   line-height: 1;
+  text-align: center;
 
   @include breakpoint($large) {
     display: block;
@@ -121,6 +131,8 @@
 
 .author__name {
   margin: 0;
+  text-align: center;
+  font-family: "Times New Roman", "SimSun", "宋体", serif;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -132,12 +144,15 @@
   @include breakpoint($medium) {
     font-size: $type-size-3;
   }
-  font-family: $serif;
+  font-family: "Times New Roman", "SimSun", "宋体", serif;
   font-size: $type-size-4;
+  font-weight: bold;
 }
 
 .author__bio {
   margin: 0;
+  text-align: center;
+  font-family: "Times New Roman", "SimSun", "宋体", serif;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -149,7 +164,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $serif;
+  font-family: "Times New Roman", "SimSun", "宋体", serif;
   z-index: 10;
   position: relative;
   margin-left: auto;

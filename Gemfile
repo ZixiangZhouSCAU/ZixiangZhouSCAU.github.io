@@ -11,6 +11,12 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# Liquid 4.0.4+ fixes Ruby 3.2 tainted? removal issues.
+gem "liquid", ">= 4.0.4", "< 5.0"
+
+# Use a newer Nokogiri with precompiled Windows binaries.
+gem "nokogiri", "~> 1.16"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
@@ -23,7 +29,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm", "~> 0.2", platforms: [:mingw, :x64_mingw, :mswin], require: false
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
