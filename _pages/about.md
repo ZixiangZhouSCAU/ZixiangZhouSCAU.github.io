@@ -46,6 +46,7 @@ redirect_from:
 ### 项目
 
 <p>1.虚拟丹霞</p>
+
 <p>2.基于 Arc Objects 的 GIS 分析平台软件开发</p>
 
 ### 软件著作权
@@ -63,7 +64,12 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.11</div><img src='images/BRICS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 获得 2025一带一路暨金砖国家技能发展与技术创新大赛 `银奖` [[学院表彰]](https://zyhjxy.scau.edu.cn/2025/1209/c19378a424200/page.htm)
+<div class="award-center">
+  <p></p>
+  <p style="font-size: 1.125em;"><b>2025一带一路暨金砖国家技能发展与技术创新大赛</b></p>
+  <span style="color: #c00000; font-weight: 700;">银奖</span>    <b>第一负责人</b>
+  <p><a href="https://zyhjxy.scau.edu.cn/2025/1209/c19378a424200/page.htm">[学院表彰]</a></p>
+</div>
 
 </div>
 </div>
@@ -71,7 +77,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.1</div><img src='images/MCM2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 获得 2025年美国大学生数学建模竞赛 `Honorable Mention`
+<div class="award-center">
+  <p style="font-size: 1.125em;"><b>2025年美国大学生数学建模竞赛</b></p>
+  <span style="color: #c00000; font-weight: 700;">Honorable Mention</span>    <b>第一负责人</b>
+</div>
 
 </div>
 </div>
@@ -79,7 +88,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.10</div><img src='images/MCM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 获得 2025全国大学生数学建模竞赛（广东省赛区） `二等奖`
+<div class="award-center">
+  <p style="font-size: 1.125em;"><b>2025全国大学生数学建模竞赛（广东省赛区）</b></p>
+  <span style="color: #c00000; font-weight: 700;">二等奖</span>    <b>核心成员</b>
+</div>
 
 </div>
 </div>
@@ -87,7 +99,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.9</div><img src='images/ESRI.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 获得 2024易智瑞杯中国大学生GIS开发竞赛 `一等奖`
+<div class="award-center">
+  <p style="font-size: 1.125em;"><b>2024易智瑞杯中国大学生GIS开发竞赛</b></p>
+  <span style="color: #c00000; font-weight: 700;">一等奖</span>    <b>第一负责人</b>
+</div>
 
 </div>
 </div>  
@@ -97,8 +112,17 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 学术会议
-- *2025.9*, 2025地理信息技术创新大会, 北京
-- *2025.8*, 第二届全国信息地理学大会  四川成都
+
+<div class="conference-grid">
+  <figure class="conference-card">
+    <img src="images/ESRI2025.jpg" alt="2025地理信息技术创新大会">
+    <figcaption>2025地理信息技术创新大会 · 北京（右一）</figcaption>
+  </figure>
+  <figure class="conference-card">
+    <img src="images/CCIG2025.jpg" alt="第二届全国信息地理学大会">
+    <figcaption>第二届全国信息地理学大会 · 四川成都</figcaption>
+  </figure>
+</div>
 
 <span class='anchor' id='-gzsx'></span>
 

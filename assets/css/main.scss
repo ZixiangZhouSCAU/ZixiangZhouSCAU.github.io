@@ -145,3 +145,46 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.site-description {
+    font-family: "Times New Roman", "SimSun", "宋体", serif;
+    white-space: normal;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.conference-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2em;
+    margin: 1.5em 0;
+}
+
+.conference-card {
+    margin: 0;
+    text-align: center;
+
+    img {
+        width: 100%;
+        height: auto;
+        display: block;
+        box-shadow: 3px 3px 6px #888;
+    }
+
+    figcaption {
+        margin-top: 0.75em;
+        font-size: 0.95em;
+        font-weight: 700;
+        text-align: center;
+    }
+}
+
+.award-center {
+    text-align: center;
+}
+
+@include breakpoint($medium) {
+    .conference-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
