@@ -4,4 +4,4 @@ main:
     url: "/#biography"
 
   - title: "CV"
-    url: "/#cv"
+    url: "/cv/"

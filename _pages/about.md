@@ -34,6 +34,14 @@ redirect_from:
 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">测绘通报 2026</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	<span style="font-family: 'Times New Roman', Times, serif;">钟琅, <b><u>周子翔</u></b>, 熊政涵, 陈永康*, 邓钰臻，蔡斐滢, 李佩禧, 李哲凡 .倾斜摄影与三维高斯泼溅融合的实景三维重建方法研究 <b><i><u>测绘通报</u></i></b>, 2026, 22(9): 3587. （北大核心）</span>  
+[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
+</div>
+</div>
 
 ### 项目
 
@@ -50,18 +58,12 @@ redirect_from:
 
 # 荣誉奖项
 
+<div class="awards-grid">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.11</div><img src='images/BRICS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 获得 2025一带一路暨金砖国家技能发展与技术创新大赛 时空智能应用创新赛项 `银奖` [[学院表彰]](https://zyhjxy.scau.edu.cn/2025/1209/c19378a424200/page.htm)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.10</div><img src='images/MCM1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- 获得 2025全国大学生数学建模竞赛（广东赛区） `二等奖`
+- 获得 2025一带一路暨金砖国家技能发展与技术创新大赛 `银奖` [[学院表彰]](https://zyhjxy.scau.edu.cn/2025/1209/c19378a424200/page.htm)
 
 </div>
 </div>
@@ -69,18 +71,28 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.1</div><img src='images/MCM2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 获得 2025年美国大学生数学建模竞赛 `Honorable Mention（二等奖）`
+- 获得 2025年美国大学生数学建模竞赛 `Honorable Mention`
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.9</div><img src='images/ESRI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.10</div><img src='images/MCM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- 获得 2025全国大学生数学建模竞赛（广东省赛区） `二等奖`
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.9</div><img src='images/ESRI.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - 获得 2024易智瑞杯中国大学生GIS开发竞赛 `一等奖`
 
 </div>
 </div>  
+
+</div>
 
 <span class='anchor' id='-xshy'></span>
 
